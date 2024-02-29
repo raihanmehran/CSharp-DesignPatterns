@@ -29,6 +29,7 @@
         public Memento(String status)
         {
             this.status = status;
+
         }
     }
 }
